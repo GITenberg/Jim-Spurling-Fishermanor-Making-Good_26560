@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '32097'
     url: http://www.gutenberg.org/2009/agents/32097
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26560#Jim-Spurling-Fishermanor-Making-Good
 gutenberg_issued: '2008-09-08'
 gutenberg_type: Text
 identifiers:
