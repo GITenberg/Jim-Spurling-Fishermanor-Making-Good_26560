@@ -1,0 +1,29 @@
+_repo: Jim-Spurling-Fishermanor-Making-Good_26560
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tolman, Albert Walter
+    birthdate: 1866
+    gutenberg_agent_id: '32097'
+    url: http://www.gutenberg.org/2009/agents/32097
+description: ''
+gutenberg_issued: '2008-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26560'
+  lccn: '18010172'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Maine -- Juvenile fiction'
+- !lcsh 'Fisheries -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'Jim Spurling, Fisherman
+
+  or Making Good'
+url: http://www.gutenberg.org/ebooks/26560
